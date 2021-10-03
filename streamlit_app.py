@@ -7,7 +7,8 @@ import streamlit as st
 """
 # Welcome to Streamlit!
 
-Haha Yishan
+Ray Sang's Testing Application
+
 """
 
 
